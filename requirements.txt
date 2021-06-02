@@ -5,5 +5,5 @@ pkg-resources==0.0.0
 PyPDF2==1.26.0
 requests==2.23.0
 tika==1.24
-urllib3==1.25.9
+urllib3==1.26.5
 wget==3.2
